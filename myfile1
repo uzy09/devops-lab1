@@ -1,0 +1,6 @@
+import os 
+x = 1 
+b = 2 
+c = x + b 
+print('the answer is' +' '+str(c)) 
+
