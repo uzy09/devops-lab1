@@ -3,4 +3,6 @@ x = 1
 b = 2 
 c = x + b 
 print('the answer is' +' '+str(c)) 
-
+print('I updated it') 
+print('this is cool') 
+print('i didnt know about this until now') 
